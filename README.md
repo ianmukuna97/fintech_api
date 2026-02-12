@@ -1,3 +1,4 @@
+---
 # 💳 Fintech Payment Utility API (Django)
 
 A production-ready **Fintech Utility API** built with **Django REST Framework** that provides essential payment-related services required by e-commerce platforms, POS systems, SaaS billing tools, and mobile money applications.
